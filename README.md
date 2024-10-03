@@ -1,6 +1,6 @@
-# Distribuciones-de-Poisson-y-Pascal
+# Distribuciones de Poisson y Pascal
 
-¡Bienvenido al repositorio de Distribuciones-de-Poisson-y-Pascal!
+¡Bienvenido al repositorio de Distribuciones de Poisson y Pascal!
 
 
 
