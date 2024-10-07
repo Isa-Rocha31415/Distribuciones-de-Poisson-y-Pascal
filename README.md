@@ -4,14 +4,10 @@
 
 
 
-## Objetivos
-- 
-
-
 ## Requisitos
 - Colab notebook
 - MATLAB
 - C
 
 ## Enlace a Google Colab 📝
-[Enlace a mi notebook en Colab](https://colab.research.google.com/drive/1EzJkP2Qa9jfI4qhRNWBr1zTcpegfJBiy?usp=sharing#scrollTo=z8ttj7Db_cz3)
+[Enlace al notebook en Colab Poisson](https://colab.research.google.com/drive/1VaHIpaR1UozncZfHKWL1tDt6YsVx52Wa?usp=sharing)
